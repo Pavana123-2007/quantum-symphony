@@ -41,7 +41,7 @@ The artwork and music use separate circuit executions. Some creative choices are
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Pavana123-2007/quantum-symphony.git
 cd quantum-symphony
 ```
 
@@ -87,7 +87,7 @@ This project uses a quantum circuit simulator rather than physical quantum hardw
 
 ## Authors
 
-Pavana G., Hamsa, and Tanushree
+Pavana G, Hamsa, and Tanushree
 
 ## License
 

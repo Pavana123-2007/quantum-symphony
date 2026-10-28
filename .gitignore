@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+
+# Generated files
+quantum_aurora.wav
+quantum_music.mid
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
